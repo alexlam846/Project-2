@@ -3,7 +3,7 @@
 		overflow: hidden;
 	}
 	
-	#navbar { 
+	#navigation { 
 	   text-align: center;
 	}
 	
@@ -17,6 +17,10 @@
 		padding: 0;
 		display: inline-block;
 		vertical-align: top; 
+	}
+	
+	#navigation ul li {
+		float: left;
 	}
 	
 	#navigation ul li a {
