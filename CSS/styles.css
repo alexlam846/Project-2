@@ -19,10 +19,6 @@
 		vertical-align: top; 
 	}
 	
-	#navigation ul li {
-		float: left;
-	}
-	
 	#navigation ul li a {
 		display: block;
 		padding: 10px 20px;
@@ -41,6 +37,7 @@
 	#style1 {
 		font-size: 5em;
 		color: rgb(255, 255, 255);
+		background-color: blue;
 	}
 	
 	#style2 {
