@@ -6,7 +6,6 @@
 		text-align: center;
 	}
 	
-	
 	#navigation {
 		background-color: red;
 	}
@@ -48,6 +47,11 @@
 		font-size: 4em;
 		color: rgb(255, 255, 000); 
 		background-color: green;
+	}
+	
+	#style3 {
+		background-color: rgb(255,192,203)
+		text-decoration: underline;
 	}
 	
 	#paragraph {
