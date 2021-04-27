@@ -1,0 +1,49 @@
+	.container {
+		width: 100%;
+		overflow: hidden;
+	}
+	
+	#navbar { 
+	   text-align: center;
+	}
+	
+	#navigation {
+		background-color: red;
+	}
+	
+	#navigation ul {
+	    list-style-type: none;
+		margin: 0;
+		padding: 0;
+		display: inline-block;
+		vertical-align: top; 
+	}
+	
+	#navigation ul li {
+		float: left;
+	}
+	
+	#navigation ul li a {
+		display: block;
+		padding: 10px 20px;
+		color: #fff;
+		text-decoration: none;
+	}
+	
+	#navigation ul li a: hover {
+		background-color: #000;
+	}
+	
+	#contacts {
+		font-family: 'Playfair Display', serif;
+	}
+
+	#style1 {
+		font-size: 5em;
+		color: rgb(255, 255, 255);
+	}
+	
+	#style2 {
+		font-size: 3em;
+		color: rgb (255, 255, 000); 
+		
