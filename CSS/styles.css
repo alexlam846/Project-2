@@ -54,6 +54,10 @@
 		text-decoration: underline;
 	}
 	
+	#style4 {
+		background-color: rgb(128,0,128);
+		text-decoration: italic;
+	}
 	#paragraph {
 		font-size: 1em;
 		width: 80%
